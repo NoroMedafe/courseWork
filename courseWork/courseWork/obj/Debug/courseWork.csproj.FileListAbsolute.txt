@@ -1,0 +1,7 @@
+C:\Users\danya\source\repos\courseWork\courseWork\bin\Debug\courseWork.exe.config
+C:\Users\danya\source\repos\courseWork\courseWork\bin\Debug\courseWork.exe
+C:\Users\danya\source\repos\courseWork\courseWork\bin\Debug\courseWork.pdb
+C:\Users\danya\source\repos\courseWork\courseWork\obj\Debug\courseWork.csproj.AssemblyReference.cache
+C:\Users\danya\source\repos\courseWork\courseWork\obj\Debug\courseWork.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\courseWork\courseWork\obj\Debug\courseWork.exe
+C:\Users\danya\source\repos\courseWork\courseWork\obj\Debug\courseWork.pdb
